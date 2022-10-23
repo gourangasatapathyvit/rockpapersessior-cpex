@@ -1,2 +1,1 @@
-# rockpapersessior-cpex
-rock paper sessior code
+# rock paper sessior code
