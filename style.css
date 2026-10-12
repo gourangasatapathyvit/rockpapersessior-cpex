@@ -3,3 +3,8 @@ html, body {
     width: 100%;
   }
   
+
+  #black,#blue,#red{
+    color: white;
+    text-align: center;
+  }
